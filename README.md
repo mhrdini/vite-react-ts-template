@@ -8,7 +8,7 @@
 ### Getting Started
 
 ```
-git clone https://github.com/mhrdini/vite-reactts-starter.git example
+git clone https://github.com/mhrdini/vite-react-ts-template.git example
 cd example
 yarn
 yarn dev
